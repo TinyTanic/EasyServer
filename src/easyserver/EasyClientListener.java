@@ -1,4 +1,4 @@
-package com.liuksoft.easyserver;
+package easyserver;
 
 /**
  *

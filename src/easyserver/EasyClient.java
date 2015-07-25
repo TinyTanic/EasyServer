@@ -1,4 +1,4 @@
-package com.liuksoft.easyserver;
+package easyserver;
 
 import com.liuksoft.easyserver.errors.SendingException;
 import java.io.IOException;
@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Luca
+ * @author Luca Aguzzoli
  */
 public class EasyClient extends Thread {
 

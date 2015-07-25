@@ -1,10 +1,8 @@
-package com.liuksoft.easyserver;
-
-
+package easyserver;
 
 /**
  *
- * @author Luca
+ * @author Luca Aguzzoli
  */
 public interface EasyServerListener {
 

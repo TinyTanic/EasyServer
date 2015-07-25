@@ -1,13 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package com.liuksoft.easyserver.errors;
+package easyserver.errors;
 
 /**
  *
- * @author Luca
+ * @author Luca Aguzzoli
  */
 public class EasyServerException extends Exception {
 

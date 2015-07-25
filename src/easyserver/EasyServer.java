@@ -1,4 +1,4 @@
-package com.liuksoft.easyserver;
+package easyserver;
 
 import java.io.IOException;
 import java.net.InetAddress;
@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author Luca
+ * @author Luca Aguzzoli
  */
 public class EasyServer extends Thread {
 

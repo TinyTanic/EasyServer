@@ -1,8 +1,8 @@
-package com.liuksoft.easyserver.errors;
+package easyserver.errors;
 
 /**
  *
- * @author Luca
+ * @author Luca Aguzzoli
  */
 public class SendingException extends EasyServerException {
 
